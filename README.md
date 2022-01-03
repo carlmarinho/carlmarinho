@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Olá !! Sou carlos henrique
-❤ Hoje trabalho com processamento de dados
-📚 Estou estudando mongoDB, expresso, angular e node.JS
+## Olá !! Sou Carlos Henrique
+❤ Hoje trabalho com Suporte T.I
+📚 Estou estudando MongoDB, Express, Angular e Node.JS
 
 <div align = "center">
   <a href="https://github.com/carlmarinho">
