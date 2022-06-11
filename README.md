@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Olá !! Sou Carlos Henrique
-❤ Hoje trabalho com Suporte T.I <br>
+❤ Hoje trabalho como Freelancer<br>
 📚 Estou estudando MongoDB, Express, Angular e Node.JS
 
 <div align = "center">
